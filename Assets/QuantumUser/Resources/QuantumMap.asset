@@ -1,0 +1,8212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1722638350, guid: b156eeaae3f741b40af66649a4748430, type: 3}
+  m_Name: QuantumMap
+  m_EditorClassIdentifier: 
+  Identifier:
+    Path: QuantumUser/Resources/QuantumMap
+    Guid:
+      Value: 398715601184115182
+  UserAsset:
+    Id:
+      Value: 0
+  Scene: MainScene
+  ScenePath: Assets/_Game/Scenes/MainScene.unity
+  SceneGuid: 4e0696bb1e03a5045a6739431821c93d
+  WorldSize: 256
+  BucketsCount: 16
+  BucketsSubdivisions: 8
+  BucketingAxis: 0
+  SortingAxis: 1
+  SceneMeshCellSize:
+    RawValue: 262144
+  TriangleMeshCellSize: -1
+  StaticColliders3DTrianglesData:
+    Id:
+      Value: 412472625960326373
+  SerializeTrianglesMetadata: 0
+  GridSizeX: 64
+  GridSizeY: 64
+  GridNodeSize: 4
+  NavMeshLinks: []
+  Regions: []
+  StaticColliders2D: []
+  StaticColliders3D:
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2264809
+      Y:
+        RawValue: -218245
+      Z:
+        RawValue: -27391532
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 0
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2252245
+      Y:
+        RawValue: -192213
+      Z:
+        RawValue: -27402076
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 1
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2180558
+      Y:
+        RawValue: -218245
+      Z:
+        RawValue: -27291124
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 2
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2167993
+      Y:
+        RawValue: -192213
+      Z:
+        RawValue: -27301668
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 3
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -4208334
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30741276
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 4
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3009502
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31250028
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 5
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3169169
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30444014
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 6
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2988359
+      Y:
+        RawValue: 656321
+      Z:
+        RawValue: -31425754
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 7
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2996560
+      Y:
+        RawValue: 682353
+      Z:
+        RawValue: -31411548
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 8
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2843674
+      Y:
+        RawValue: 606607
+      Z:
+        RawValue: -31416164
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 9
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2851875
+      Y:
+        RawValue: 632639
+      Z:
+        RawValue: -31401958
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 10
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3367598
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31154076
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 11
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 56755
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -32768
+    Position:
+      X:
+        RawValue: -3667096
+      Y:
+        RawValue: 656321
+      Z:
+        RawValue: -30240448
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 12
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 56755
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -32768
+    Position:
+      X:
+        RawValue: -3658895
+      Y:
+        RawValue: 682353
+      Z:
+        RawValue: -30254654
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 13
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3396192
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30575084
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 14
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3431742
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -29990214
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 15
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 16961
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -63302
+    Position:
+      X:
+        RawValue: -2592055
+      Y:
+        RawValue: 606607
+      Z:
+        RawValue: -30480936
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 16
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 16961
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -63302
+    Position:
+      X:
+        RawValue: -2606259
+      Y:
+        RawValue: 632639
+      Z:
+        RawValue: -30489136
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 17
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3300241
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30216990
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 18
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2723005
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30186420
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 121819
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 19
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2560194
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30991848
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 20
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2785639
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31122008
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 128279
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 21
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 56755
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -32768
+    Position:
+      X:
+        RawValue: -3553523
+      Y:
+        RawValue: 656321
+      Z:
+        RawValue: -30174876
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 22
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 56755
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -32768
+    Position:
+      X:
+        RawValue: -3545322
+      Y:
+        RawValue: 682353
+      Z:
+        RawValue: -30189082
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 23
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -4339836
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30514500
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 24
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2875693
+      Y:
+        RawValue: 656321
+      Z:
+        RawValue: -31360706
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 25
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2883894
+      Y:
+        RawValue: 682353
+      Z:
+        RawValue: -31346500
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 26
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3493804
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30930304
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 127393
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 27
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3073218
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30085918
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 28
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 16961
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -63302
+    Position:
+      X:
+        RawValue: -2647513
+      Y:
+        RawValue: 656321
+      Z:
+        RawValue: -30512954
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 29
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 16961
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -63302
+    Position:
+      X:
+        RawValue: -2661717
+      Y:
+        RawValue: 682353
+      Z:
+        RawValue: -30521154
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 30
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3204719
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -29859142
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 31
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2985549
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -29732604
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 121819
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 32
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 56755
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -32768
+    Position:
+      X:
+        RawValue: -3585773
+      Y:
+        RawValue: 606607
+      Z:
+        RawValue: -30119552
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 33
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 56755
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -32768
+    Position:
+      X:
+        RawValue: -3577572
+      Y:
+        RawValue: 632639
+      Z:
+        RawValue: -30133758
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 34
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 16961
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -63302
+    Position:
+      X:
+        RawValue: -2657103
+      Y:
+        RawValue: 606607
+      Z:
+        RawValue: -30368270
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 35
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 16961
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -63302
+    Position:
+      X:
+        RawValue: -2671307
+      Y:
+        RawValue: 632639
+      Z:
+        RawValue: -30376470
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 36
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2942146
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30312942
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 37
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3332522
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31739220
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 38
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 63302
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 16961
+    Position:
+      X:
+        RawValue: -3833318
+      Y:
+        RawValue: 656321
+      Z:
+        RawValue: -31197084
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 39
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 63302
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 16961
+    Position:
+      X:
+        RawValue: -3819114
+      Y:
+        RawValue: 682353
+      Z:
+        RawValue: -31188884
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 40
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3690843
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31643400
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 41
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3140574
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31023004
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 42
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2656145
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31349944
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 43
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3527264
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30348062
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 44
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3266780
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30799232
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 127393
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 45
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2466176
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30634868
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 46
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3105454
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31608124
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 47
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3623216
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30706156
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 48
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3039757
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30668160
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 127393
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 49
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3559771
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31870424
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 50
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3594666
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31285176
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 51
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3981311
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30610204
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 52
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2853941
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -29958898
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 131274
+      Y:
+        RawValue: 911
+      Z:
+        RawValue: 122186
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 53
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -4112812
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30383430
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 54
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3236526
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31381100
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 55
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3821915
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31416376
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 56
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2691266
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30764824
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 57
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3463594
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31512196
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 58
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 63302
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 16961
+    Position:
+      X:
+        RawValue: -3953824
+      Y:
+        RawValue: 606607
+      Z:
+        RawValue: -31116436
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 59
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 63302
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 16961
+    Position:
+      X:
+        RawValue: -3939620
+      Y:
+        RawValue: 632639
+      Z:
+        RawValue: -31108236
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 60
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2204032
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31088916
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 61
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -4077262
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30968300
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 62
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2335104
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30861892
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 63
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3720827
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31061376
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 127393
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 64
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2916711
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30894986
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 128279
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 65
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3754288
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30479132
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 66
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2429121
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -31218872
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 67
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 63302
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 16961
+    Position:
+      X:
+        RawValue: -3888776
+      Y:
+        RawValue: 606607
+      Z:
+        RawValue: -31229102
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 68
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 63302
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 16961
+    Position:
+      X:
+        RawValue: -3874572
+      Y:
+        RawValue: 632639
+      Z:
+        RawValue: -31220902
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 69
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2956340
+      Y:
+        RawValue: 606607
+      Z:
+        RawValue: -31481212
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 70
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2964541
+      Y:
+        RawValue: 632639
+      Z:
+        RawValue: -31467006
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 71
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 63302
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 16961
+    Position:
+      X:
+        RawValue: -3898366
+      Y:
+        RawValue: 656321
+      Z:
+        RawValue: -31084416
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 72
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 63302
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 16961
+    Position:
+      X:
+        RawValue: -3884162
+      Y:
+        RawValue: 682353
+      Z:
+        RawValue: -31076216
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 73
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 56755
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -32768
+    Position:
+      X:
+        RawValue: -3699114
+      Y:
+        RawValue: 606607
+      Z:
+        RawValue: -30184990
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 74
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 56755
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -32768
+    Position:
+      X:
+        RawValue: -3690913
+      Y:
+        RawValue: 632639
+      Z:
+        RawValue: -30199196
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 75
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -2812734
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30537088
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 127393
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 76
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 16961
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -63302
+    Position:
+      X:
+        RawValue: -2712561
+      Y:
+        RawValue: 656321
+      Z:
+        RawValue: -30400288
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 77
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 16961
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -63302
+    Position:
+      X:
+        RawValue: -2726765
+      Y:
+        RawValue: 682353
+      Z:
+        RawValue: -30408488
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 78
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3850239
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30837228
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 79
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 32768
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 56755
+    Position:
+      X:
+        RawValue: -3885789
+      Y:
+        RawValue: 694376
+      Z:
+        RawValue: -30252358
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 80
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3378534
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27330484
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 81
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 27696
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 59395
+    Position:
+      X:
+        RawValue: 3675267
+      Y:
+        RawValue: -392409
+      Z:
+        RawValue: -27978600
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 82
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 27696
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 59395
+    Position:
+      X:
+        RawValue: 3664724
+      Y:
+        RawValue: -366377
+      Z:
+        RawValue: -27966036
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 83
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2568331
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -25957098
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 84
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3611659
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26792664
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 85
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 3804705
+      Y:
+        RawValue: -390261
+      Z:
+        RawValue: -26290046
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 86
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 3792141
+      Y:
+        RawValue: -364229
+      Z:
+        RawValue: -26300590
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 87
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3073839
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26559540
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 88
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2302895
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26864234
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 89
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2840714
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27097360
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 90
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2873025
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26728042
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 91
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3306964
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26021720
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 92
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2776092
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27835994
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 93
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2944595
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -28036808
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 94
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2365216
+      Y:
+        RawValue: -318291
+      Z:
+        RawValue: -27307280
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 95
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2352652
+      Y:
+        RawValue: -292259
+      Z:
+        RawValue: -27317824
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 96
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2937648
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -25989410
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 97
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3747851
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27362796
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 98
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2134392
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26663420
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 99
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2399828
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -25756284
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 100
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3145409
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27868304
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 101
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2536020
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26326414
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 102
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2801456
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -25419278
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 103
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2905336
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26358726
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 104
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3177720
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27498988
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 105
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3514726
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27900616
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 106
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 1965889
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26462606
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 107
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3346223
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27699802
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 108
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2102081
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27032738
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 109
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2199014
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -25924788
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 110
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3579348
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27161982
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 111
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3443156
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26591850
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 112
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3274653
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26391038
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 113
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 4002080
+      Y:
+        RawValue: -401944
+      Z:
+        RawValue: -26034478
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 114
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3106150
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26190224
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 115
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 27696
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 59395
+    Position:
+      X:
+        RawValue: 3775674
+      Y:
+        RawValue: -392409
+      Z:
+        RawValue: -27894348
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 116
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 27696
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 59395
+    Position:
+      X:
+        RawValue: 3765131
+      Y:
+        RawValue: -366377
+      Z:
+        RawValue: -27881784
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 117
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2969959
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -25620092
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 118
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3812473
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26624162
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 119
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3547037
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27531298
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 120
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3138461
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -25820906
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 121
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2471398
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27065048
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 122
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3313912
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -28069118
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 123
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2607589
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27635180
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 124
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 1998200
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26093290
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 125
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3242342
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26760354
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 126
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2503709
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26695732
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 127
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3916354
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27563610
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 128
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2246917
+      Y:
+        RawValue: -372283
+      Z:
+        RawValue: -27064340
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 129
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2234352
+      Y:
+        RawValue: -346251
+      Z:
+        RawValue: -27074884
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 130
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2196713
+      Y:
+        RawValue: -318291
+      Z:
+        RawValue: -27106466
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 131
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2184149
+      Y:
+        RawValue: -292259
+      Z:
+        RawValue: -27117010
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 132
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2736834
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26157912
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 133
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2704523
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26527228
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 134
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 4403708
+      Y:
+        RawValue: -401944
+      Z:
+        RawValue: -25697472
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 135
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3715540
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27732112
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 136
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2439087
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27434366
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 137
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 4317982
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27226604
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 138
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 1765075
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26631110
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 139
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 1596572
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26430296
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 140
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 3720454
+      Y:
+        RawValue: -390261
+      Z:
+        RawValue: -26189638
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 141
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 3707889
+      Y:
+        RawValue: -364229
+      Z:
+        RawValue: -26200182
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 142
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2367517
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26125602
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 143
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2600642
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -25587782
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 144
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3041528
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26928856
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 145
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3210031
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27129670
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 146
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 1797386
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26261792
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 147
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2672211
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26896546
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 148
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3801266
+      Y:
+        RawValue: -401944
+      Z:
+        RawValue: -26202982
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 149
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2976906
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27667490
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 150
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2315013
+      Y:
+        RawValue: -268025
+      Z:
+        RawValue: -27349406
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 151
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2302448
+      Y:
+        RawValue: -241993
+      Z:
+        RawValue: -27359950
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 152
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 4202894
+      Y:
+        RawValue: -401944
+      Z:
+        RawValue: -25865976
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 153
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3780162
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26993478
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 154
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2449468
+      Y:
+        RawValue: -318291
+      Z:
+        RawValue: -27407688
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 155
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2436903
+      Y:
+        RawValue: -292259
+      Z:
+        RawValue: -27418232
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 156
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3009217
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27298174
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 157
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2499671
+      Y:
+        RawValue: -372283
+      Z:
+        RawValue: -27365562
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 158
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2487107
+      Y:
+        RawValue: -346251
+      Z:
+        RawValue: -27376106
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 159
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2331168
+      Y:
+        RawValue: -372283
+      Z:
+        RawValue: -27164748
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 160
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2318604
+      Y:
+        RawValue: -346251
+      Z:
+        RawValue: -27175292
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 161
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2808403
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27466676
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 162
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2639900
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27265862
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 163
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3643970
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26423348
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 164
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2270584
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27233552
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 165
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2769145
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -25788596
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 166
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2166703
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26294104
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 167
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2415420
+      Y:
+        RawValue: -372283
+      Z:
+        RawValue: -27265154
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 168
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2402855
+      Y:
+        RawValue: -346251
+      Z:
+        RawValue: -27275698
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 169
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 1933578
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26831924
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 170
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2230761
+      Y:
+        RawValue: -268025
+      Z:
+        RawValue: -27249000
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 171
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2218197
+      Y:
+        RawValue: -241993
+      Z:
+        RawValue: -27259544
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 172
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 2335206
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26494918
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 173
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 4149479
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27025790
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 174
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3475467
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26222534
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 175
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 4117168
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27395106
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 176
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3948665
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -27194292
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 177
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3113098
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -28237622
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 178
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3410845
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26961168
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 179
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2280965
+      Y:
+        RawValue: -318291
+      Z:
+        RawValue: -27206874
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 32768
+      Y:
+        RawValue: 13206
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 180
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 22414
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -61583
+    Position:
+      X:
+        RawValue: 2268400
+      Y:
+        RawValue: -292259
+      Z:
+        RawValue: -27217418
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 16366
+      Y:
+        RawValue: 13356
+      Z:
+        RawValue: 65271
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider (1)
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 181
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 4604522
+      Y:
+        RawValue: -401944
+      Z:
+        RawValue: -25528970
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 182
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 59395
+      Z:
+        RawValue: 0
+      W:
+        RawValue: -27696
+    Position:
+      X:
+        RawValue: 3980976
+      Y:
+        RawValue: -357054
+      Z:
+        RawValue: -26824976
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 2
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 130907
+      Y:
+        RawValue: 909
+      Z:
+        RawValue: 130894
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Collider
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 183
+      MutableMode: 0
+  - Rotation:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 0
+      Z:
+        RawValue: 0
+      W:
+        RawValue: 65536
+    Position:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 0
+      Z:
+        RawValue: 0
+    PhysicsMaterial:
+      Id:
+        Value: 0
+    ShapeType: 4
+    SphereRadius:
+      RawValue: 0
+    CapsuleRadius:
+      RawValue: 0
+    CapsuleHeight:
+      RawValue: 0
+    BoxExtents:
+      X:
+        RawValue: 0
+      Y:
+        RawValue: 0
+      Z:
+        RawValue: 0
+    SmoothSphereMeshCollisions: 0
+    StaticData:
+      Name: Terrain
+      Tag: Untagged
+      Layer: 0
+      Asset:
+        Id:
+          Value: 0
+      IsTrigger: 0
+      ColliderIndex: 184
+      MutableMode: 0
+  MapEntities:
+  - Components:
+    - rid: 9080226418318639104
+    - rid: 9080226418318639105
+  SerializedTriangleDataUncompressedSize: 151044128
+  references:
+    version: 2
+    RefIds:
+    - rid: 9080226418318639104
+      type: {class: Transform3DPrototype, ns: Quantum.Prototypes, asm: Quantum.Engine}
+      data:
+        Position:
+          X:
+            RawValue: -3532390
+          Y:
+            RawValue: 846069
+          Z:
+            RawValue: -30950686
+        Rotation:
+          X:
+            RawValue: 0
+          Y:
+            RawValue: 15592832
+          Z:
+            RawValue: 0
+    - rid: 9080226418318639105
+      type: {class: SpawnPointPrototype, ns: Quantum.Prototypes, asm: Quantum.Simulation}
+      data:
+        _empty_prototype_dummy_field_: 0

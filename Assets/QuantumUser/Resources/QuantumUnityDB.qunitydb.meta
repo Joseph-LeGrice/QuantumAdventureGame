@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 15a1ab777be1c6f44b2cb6f306e55e09
+labels:
+- QuantumDefaultGlobal
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 0c1b5134111a460c9bb0f5ec80d3229c, type: 3}
+  LogImportTimes: 0

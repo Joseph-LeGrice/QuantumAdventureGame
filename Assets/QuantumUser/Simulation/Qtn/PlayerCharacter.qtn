@@ -1,0 +1,20 @@
+component PlayerLink {
+    player_ref PlayerRef;
+}
+
+component PlayerCharacterController {
+    FP LookYaw;
+    FP LookPitch;
+    button IsGrounded;
+    button DidJump;
+    button DidDoubleJump;
+    
+    FPVector3 LocalVelocity;
+}
+
+component SpawnPoint {
+}
+
+global {
+    dictionary<player_ref, EntityRef> PlayerLookup;
+}

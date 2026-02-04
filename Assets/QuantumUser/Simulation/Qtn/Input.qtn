@@ -1,0 +1,6 @@
+input {
+    FPVector2 MovementDirection;
+    FPVector2 LookDelta;
+    button WantsJump;
+    FP CameraZoomDelta;
+}
